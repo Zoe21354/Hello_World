@@ -11,7 +11,7 @@
           <li>Lecture: Tendai Mkwaira</li>
           <li>Assignment 1: Use GitHub</li>
           <li>Due Date: ...</li>
-          <li>Student ID: 577989</li>
+          <li>Student ID: ....</li>
         </ul>
       <li>One hobbie of mine is reading</li>
       <li>I love the colour <em>Purple</em></li>
